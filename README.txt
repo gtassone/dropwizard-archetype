@@ -15,10 +15,10 @@ OR
 mvn archetype:generate -DarchetypeGroupId=com.gmail.gtassone -DarchetypeArtifactId=dropwizard-archetype
 
 -> answer the prompts e.g.
-Define value for property 'groupId': : com.addthis.tyrell
+Define value for property 'groupId': : com.gmail.gtassone
 Define value for property 'artifactId': : emptyDrop
 Define value for property 'version':  1.0-SNAPSHOT: :
-Define value for property 'package':  com.addthis.tyrell: :
+Define value for property 'package':  com.gmail.gtassone: :
 Define value for property 'applicationClass':  : : EmptyDropwizardApplication
 Define value for property 'applicationName':  : : Empty
 Define value for property 'configClass':  : : EmptyDropwizardConfig
