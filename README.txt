@@ -1,4 +1,4 @@
-This Maven archetype generates the simplest DropWizard (version 0.8.3) application possible. 
+This Maven archetype generates the simplest DropWizard (version 1.1.0) application possible. 
 
 It includes only the components necessary to startup successfully, which should work right out of the box.
 
