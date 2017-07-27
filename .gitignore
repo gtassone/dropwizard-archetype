@@ -1,0 +1,20 @@
+bin/
+tmp/
+target/
+deploy/
+
+#################
+## Eclipse
+#################
+.project
+.metadata
+.classpath
+.settings/
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+#################
+## Intellij
+#################
+.idea
+*.iml
